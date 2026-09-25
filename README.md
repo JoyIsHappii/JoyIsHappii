@@ -58,6 +58,6 @@ While I’m still exploring what’s ahead ✊, I’m excited to:
 
 ## 🔗 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/joykosol/
-- 🧑‍💻 Portfolio: https://joykosol.webflow.io
+- 🧑‍💻 Portfolio: https://joyishappii-portfolio.netlify.app/
 
 
